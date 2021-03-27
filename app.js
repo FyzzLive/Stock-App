@@ -1,4 +1,4 @@
-//                                                     Setup for Express and Handle Bars
+//   Stock Market App                                  Setup for Express and Handle Bars
 const express = require('express');
 const app = express();
 const exphbs  = require('express-handlebars');
